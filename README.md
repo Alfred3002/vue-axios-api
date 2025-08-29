@@ -22,3 +22,5 @@ This is a basic Vue.js project demonstrating how to fetch data from a public API
    ```bash
    git clone https://github.com/Alfred3002/vue-axios-api.git
    cd vue-axios-api-fetch
+
+![alt text](vue.png)
